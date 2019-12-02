@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KB_adventofcode_day2</string>
+    <string name="data_input_name">input</string>
+    <string name="data_input_path">raw</string>
+</resources>
